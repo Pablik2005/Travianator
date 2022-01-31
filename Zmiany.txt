@@ -1,0 +1,44 @@
+- przesówanie itemków podczas dotkniêcia textu
+- branie pod uwage tasków do generowania listy budynkó do budowanie 
+
+- cos z taskami po ponownym odpaleniu aplikacji , odaje podwujnie zadania
+
+
+1.06
++ Do nazwy pliu config dodano wersje
++ Poprawiono zadania (podczas zamykania aplikacji zadania sa ponownie zapisywane)
++ Dodano zapiwywanie domyœlnego jêzyka
++ Dodano potwierdzenie wczytania zadañ
+
+1.05
++ Dodano wersje jêzykowa (English, Polish) i obs³uge serwera COM
++ Zadania poprawiono (zapêtla³ dodawanie do tasków)
++ Naprawiono zmiany ikonki na mapie po usunieciu zadania
+
+
+1.04
++ Naprawiono problem z logowaniem
++ Poprawiono zadania
+
+1.03
++ Dodano lampkê pokazuj¹c¹ czy internet jest dostêpny 
++ Poprawiono ponawianie requestów.
++ Poprawiono stan zadañ przy ponownym logowaniu ( Zmiany w liscie kont)
++ Sprawdzanie czy jest dostêpny internet podczas logowania 
+
+1.02
++ Podczas braku dostêpu do internetu program siê nie wywala, a request jest ponawiany co 5 sec przez 2min
++ Poprawiono zapisywanie zadañ (zadania s¹ zapisywane po dodaniu, usuniêciu, wykonaniu)
++ Poprawiono ³adowanie siê fortyfikacji (Mury obronne, Wa³y i Palisada)
++ Poprawiono przeliczanie czasu zadañ dla Rzymian
+
+1.01
++ Dodano  zapisywanie zadañ do pliku
++ Dodano obramowanie do aktywnej akcji w menu
++ Dodanie nazwy aktualnie budowanego budynku
++ Dodano Info do menu
++ Dodano potwierdzenie zamkniêcia aplikacji
++ Sprecyzowanie miejsca budynku Miejsce Zbiórki
++ Naprawiony b³¹d z pust¹ list¹ kont
+
+1.00
